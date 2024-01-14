@@ -1,0 +1,3 @@
+# My Bio
+
+`My name is Josiah Madondo. I was born in Zimbabwe but am currently based in Pretoria, South Africa. I am married and we are blessed with a boy and a girl. I enjoy doing house chores, especially doing the dishes, I find that very relaxing. I also enjoy watching sports like soccer, rugby, and cricket. I am working towards a degree in Applied Technology. I am currently busy with the System Administration Certificate.`
