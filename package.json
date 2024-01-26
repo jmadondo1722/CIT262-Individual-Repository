@@ -4,19 +4,7 @@
   "description": "My first nodejs file",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jmadondo1722/CIT262-Individual-Repository.git"
-  },
-  "keywords": [
-    "CIT262-Individual-Repository"
-  ],
-  "author": "Josiah Madondo",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jmadondo1722/CIT262-Individual-Repository/issues"
-  },
-  "homepage": "https://github.com/jmadondo1722/CIT262-Individual-Repository#readme"
+    "hello": "node helloworld.js"
+  }
 }
+  
